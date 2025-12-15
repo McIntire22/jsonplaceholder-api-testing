@@ -96,13 +96,6 @@ Jordyn McIntire
 Entry-Level QA Engineer
 GitHub: https://github.com/McIntire22
 
-## 📂 Repository Structure
-```text
-jsonplaceholder-api-testing/
-├── README.md
-├── JSONPlaceholder API – Manual API Testing Project.pdf
-├── JSONPlaceholder_API_Testing.postman_collection.json
-
 
 
 
