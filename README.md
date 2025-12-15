@@ -91,6 +91,11 @@ In a real production API, stricter input validation would typically be expected.
 
 ---
 
+## 📌 Author
+Jordyn McIntire
+Entry-Level QA Engineer
+GitHub: https://github.com/McIntire22
+
 ## 📂 Repository Structure
 ```text
 jsonplaceholder-api-testing/
@@ -98,8 +103,6 @@ jsonplaceholder-api-testing/
 ├── JSONPlaceholder API – Manual API Testing Project.pdf
 ├── JSONPlaceholder_API_Testing.postman_collection.json
 
-## 📌 Author
-Jordyn McIntire
-Entry-Level QA Engineer
-GitHub: https://github.com/McIntire22
+
+
 
